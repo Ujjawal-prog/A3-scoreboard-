@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "cd \"student scoreboard\" && npm run dev",
+    "start": "cd \"student scoreboard\" && npm run dev",
+    "install:sub": "cd \"student scoreboard\" && npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
